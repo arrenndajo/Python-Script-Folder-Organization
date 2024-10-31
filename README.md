@@ -1,3 +1,3 @@
 ## Python Script Folder Organization
 
-Organises various file types into respective folders with a click.
+Organizes various file types into respective folders with a click.
